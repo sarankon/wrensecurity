@@ -11,5 +11,8 @@
 | Wren:DS | [legacy/master](https://github.com/WrenSecurity/wrends/tree/legacy/master) | ??? |
 | Wren:DS | [master](https://github.com/WrenSecurity/wrends/tree/master) | ??? |
 | Wren:DS | [sustaining/3.0](https://github.com/WrenSecurity/wrends/tree/sustaining/3.0) | ??? |
-| Wren:IDM | | |
+| Wren:IDM | [develop](https://github.com/WrenSecurity/wrenidm/tree/develop) | ??? |
+| Wren:IDM | [historical/master](https://github.com/WrenSecurity/wrenidm/tree/historical/master) | ??? |
+| Wren:IDM | [historical/release/4.5.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/4.5.0) | ??? |
+| Wren:IDM | [historical/release/5.0.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/5.0.0) | ??? |
 | Wren:IG | | |
