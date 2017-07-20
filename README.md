@@ -1,6 +1,8 @@
 # Wren Security / Project Status
 
-# Wren : Access Management
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/WrenSecurity/Lobby)
+
+### Wren : Access Management
 
 | Project Name | Branch | Ready Build |
 | ----- | ----- | ----- |
@@ -11,7 +13,7 @@
 | Wren:AM | [sustaining/13.5](https://github.com/WrenSecurity/wrenam/tree/sustaining/13.5) | OK |
 | Wren:AM | [sustaining/14](https://github.com/WrenSecurity/wrenam/tree/sustaining/14) | ??? |
 
-# Wren : Directory Service
+### Wren : Directory Service
 
 | Project Name | Branch | Ready Build |
 | ----- | ----- | ----- |
@@ -19,7 +21,7 @@
 | Wren:DS | [master](https://github.com/WrenSecurity/wrends/tree/master) | ??? |
 | Wren:DS | [sustaining/3.0](https://github.com/WrenSecurity/wrends/tree/sustaining/3.0) | ??? |
 
-# Wren : Identity Management
+### Wren : Identity Management
 
 | Project Name | Branch | Ready Build |
 | ----- | ----- | ----- |
@@ -28,7 +30,7 @@
 | Wren:IDM | [historical/release/4.5.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/4.5.0) | ??? |
 | Wren:IDM | [historical/release/5.0.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/5.0.0) | ??? |
 
-# Wren : Identity Gateway
+### Wren : Identity Gateway
 
 | Project Name | Branch | Ready Build |
 | ----- | ----- | ----- |
