@@ -28,10 +28,33 @@
 | Wren:IDM | [develop](https://github.com/WrenSecurity/wrenidm/tree/develop) | ??? |
 | Wren:IDM | [historical/master](https://github.com/WrenSecurity/wrenidm/tree/historical/master) | ??? |
 | Wren:IDM | [historical/release/4.5.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/4.5.0) | ??? |
-| Wren:IDM | [historical/release/5.0.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/5.0.0) | ??? |
+| Wren:IDM | [historical/release/5.0.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/5.0.0) | OK |
 
 ### Wren : Identity Gateway
 
 | Project Name | Branch | Ready Build |
 | ----- | ----- | ----- |
 | Wren:IG | ??? | ??? |
+
+# Building Wren : Identity Management
+### Preparing you build environment
+In order to build Wren : Identity Management from source you need the following software installed:
+* Java (Oracle) >= 1.7
+* Apache Maven >= 3.5.0
+
+### Building 
+```
+$ git clone https://github.com/WrenSecurity/wrensec-deps.git
+$ cd wrensec-deps
+$ ./install_openidm_5.0.0_deps.sh
+$ cd ..
+```
+
+``` 
+$ git clone https://github.com/WrenSecurity/wrenidm.git
+$ cd wrenidm
+$ git checkout historical/release/5.0.0
+$ mvn package
+```
+After build successful you will found openidm-zip folder and openidm-5.0.0-SNAPSHOT.zip in folder
+
