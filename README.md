@@ -43,8 +43,9 @@
 # Building Wren : Identity Management
 ### Preparing you build environment
 In order to build Wren : Identity Management from source you need the following software installed:
-* Java (Oracle) >= 1.7
-* Apache Maven >= 3.5.0
+* Ubuntu 17.04 x64
+* OpenJDK 1.8 x64
+* Apache Maven 3.5.0
 
 ### Building 
 ```
