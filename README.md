@@ -4,8 +4,8 @@
 
 ### Wren : Access Management
 
-| Project Name | Branch | Builds with WrenSec-Deps | Builds from JFrog |
-| ----- | ----- | ----- | ----- | 
+| Project Name | Branch | <td colspan=2> Builds with WrenSec-Deps | Builds from JFrog |
+| ----- | ----- | ----- | ----- | ----- |
 | Wren:AM | [develop](https://github.com/WrenSecurity/wrenam/tree/develop) | ??? | |
 | Wren:AM | [historical/master](https://github.com/WrenSecurity/wrenam/tree/historical/master) | ??? | |
 | Wren:AM | [master](https://github.com/WrenSecurity/wrenam/master) | ??? | |
