@@ -18,8 +18,8 @@
 | Project Name | Branch | Builds with WrenSec-Deps | Builds from JFrog |
 | ----- | ----- | ----- | ----- | 
 | Wren:DS | [legacy/master](https://github.com/WrenSecurity/wrends/tree/legacy/master) | ??? | |
-| Wren:DS | [master](https://github.com/WrenSecurity/wrends/tree/master) | ??? | Testing |
-| Wren:DS | [sustaining/3.0](https://github.com/WrenSecurity/wrends/tree/sustaining/3.0) | ??? | |
+| Wren:DS | [master](https://github.com/WrenSecurity/wrends/tree/master) | ??? | ??? |
+| Wren:DS | [sustaining/3.0](https://github.com/WrenSecurity/wrends/tree/sustaining/3.0) | ??? | Testing |
 
 ### Wren : Identity Management
 
