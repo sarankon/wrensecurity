@@ -7,28 +7,26 @@
 | Project Name | Branch | Builds with WrenSec-Deps | Builds from JFrog |
 | ----- | ----- | ----- | ----- | 
 | Wren:AM | [develop](https://github.com/WrenSecurity/wrenam/tree/develop) | ??? | |
-| Wren:AM | [historical/master](https://github.com/WrenSecurity/wrenam/tree/historical/master) | ??? | |
 | Wren:AM | [master](https://github.com/WrenSecurity/wrenam/master) | ??? | |
-| Wren:AM | [sustaining/13](https://github.com/WrenSecurity/wrenam/tree/sustaining/13) | ??? | |
-| Wren:AM | [sustaining/13.5](https://github.com/WrenSecurity/wrenam/tree/sustaining/13.5) | OK | |
-| Wren:AM | [sustaining/14](https://github.com/WrenSecurity/wrenam/tree/sustaining/14) | ??? | |
+| Wren:AM | [sustaining/13.x](https://github.com/WrenSecurity/wrenam/tree/sustaining/13.x) | ??? | |
+| Wren:AM | [sustaining/13.5.x](https://github.com/WrenSecurity/wrenam/tree/sustaining/13.5.x) | OK | |
 
 ### Wren : Directory Service
 
 | Project Name | Branch | Builds with WrenSec-Deps | Builds from JFrog |
 | ----- | ----- | ----- | ----- | 
-| Wren:DS | [legacy/master](https://github.com/WrenSecurity/wrends/tree/legacy/master) | ??? | |
-| Wren:DS | [master](https://github.com/WrenSecurity/wrends/tree/master) | ??? | ??? |
-| Wren:DS | [sustaining/3.0](https://github.com/WrenSecurity/wrends/tree/sustaining/3.0) | ??? | Testing |
+| Wren:DS | [feature/wrensec-builds-phase-2](https://github.com/WrenSecurity/wrends/tree/feature/wrensec-builds-phase-2) | ??? | |
+| Wren:DS | [master](https://github.com/WrenSecurity/wrends/tree/master) | ??? | Testing |
+| Wren:DS | [sustaining/3.x](https://github.com/WrenSecurity/wrends/tree/sustaining/3.x) | ??? | ??? |
+| Wren:DS | [sustaining/3.5.x](https://github.com/WrenSecurity/wrends/tree/sustaining/3.5.x) | ??? | Testing |
 
 ### Wren : Identity Management
 
 | Project Name | Branch | Builds with WrenSec-Deps | Builds from JFrog |
 | ----- | ----- | ----- | ----- | 
 | Wren:IDM | [develop](https://github.com/WrenSecurity/wrenidm/tree/develop) | ??? | |
-| Wren:IDM | [historical/master](https://github.com/WrenSecurity/wrenidm/tree/historical/master) | ??? | |
-| Wren:IDM | [historical/release/4.5.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/4.5.0) | ??? | |
-| Wren:IDM | [historical/release/5.0.0](https://github.com/WrenSecurity/wrenidm/tree/historical/release/5.0.0) | OK | | 
+| Wren:IDM | [master](https://github.com/WrenSecurity/wrenidm/tree/master) | ??? | |
+| Wren:IDM | [sustaining/5.x](https://github.com/WrenSecurity/wrenidm/tree/sustaining/5.x) | OK | | 
 
 ### Wren : Identity Gateway
 
