@@ -24,7 +24,6 @@
 
 | Project Name | Branch | Builds with WrenSec-Deps | Builds from JFrog |
 | ----- | ----- | ----- | ----- | 
-| Wren:IDM | [develop](https://github.com/WrenSecurity/wrenidm/tree/develop) | ??? | |
 | Wren:IDM | [master](https://github.com/WrenSecurity/wrenidm/tree/master) | ??? | |
 | Wren:IDM | [sustaining/5.x](https://github.com/WrenSecurity/wrenidm/tree/sustaining/5.x) | OK | | 
 
